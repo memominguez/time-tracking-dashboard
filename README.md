@@ -36,8 +36,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Pending
-- Live Site URL: Pending
+
+- Solution URL:  [Github repository](https://github.com/memominguez/time-tracking-dashboard
+)
+- Live Site URL:  [Netlify](https://activity-tracking.netlify.app/
+)
+
 
 ## My process
 
